@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on
 
 ## About Me
 
-Highly skilled professional with 12+ years of overall experience and a proven track record in end-to-end (E2E) design and development across multiple industries. I've successfully driven application development and achieved substantial business growth. With a background spanning front-end, back-end, and mobile development as a Software Engineer, along with quality assurance roles as a Software Development Engineer in Test (SDET) where I worked with software testing, test automation, process automation (RPA), and performance testing, I've seamlessly navigated various aspects of software development. Additionally, I actively participate in architectural solutions and definitions, leveraging my experience to contribute to robust and scalable system designs. All my experiences have equipped me to deliver comprehensive and quality-focused solutions, making a significant impact where I have worked so far.
+Highly skilled professional with 14+ years of overall experience and a proven track record in end-to-end (E2E) design and development across multiple industries. I've successfully driven application development and achieved substantial business growth. With a background spanning front-end, back-end, and mobile development as a Software Engineer, along with quality assurance roles as a Software Development Engineer in Test (SDET) where I worked with software testing, test automation, process automation (RPA), and performance testing, I've seamlessly navigated various aspects of software development. Additionally, I actively participate in architectural solutions and definitions, leveraging my experience to contribute to robust and scalable system designs. All my experiences have equipped me to deliver comprehensive and quality-focused solutions, making a significant impact where I have worked so far.
 
 Beyond tech, I enjoy quality time with my family, exploring new places, and continuously advancing my tech expertise through ongoing study.
 
@@ -22,6 +22,8 @@ Here are a few projects I've worked on:
 2. **[AmiGo Travel](https://www.amigo.app)** - Led E2E design and development, achieving a 50% QoQ increase in organic sign-ups after release (reached 100K users) with a high rating (4.9 stars).
 3. **[Itaú](https://www.itau.com.br)** - Collaborated with Apple on 'iPhone pra Sempre', resulting in over 30K monthly sales post-release.
 4. **[Itaú](https://www.itau.com.br)** - Developed native credit card contracting flow and improved user experience, achieving 20K credit card contracts per month
+
+See more on my LinkedIn
 
 ## GitHub Stats
 

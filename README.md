@@ -41,12 +41,8 @@ Scalable & robust systems, tailored architectural solutions, and performance opt
 
 > 💡 *Check out my [LinkedIn](https://www.linkedin.com/in/henriqueaeguchi/) for a deeper dive into my professional journey.*
 
-## 📊 GitHub Stats
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-eguchi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-eguchi&layout=compact&theme=radical)
-
-## 🤝 Connect with Me
+## 🔗 Connect with Me
 
 * [**LinkedIn**](https://www.linkedin.com/in/henriqueaeguchi/)
+
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.

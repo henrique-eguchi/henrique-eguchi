@@ -1,38 +1,52 @@
-# Hi there, I'm Henrique Eguchi 👋
+# Hi there, I'm Henrique 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on building innovative solutions and continuously improving my skills.
+I'm a **Software Engineer** based in Brazil 🇧🇷. I build innovative and tailor-made solutions 🎯.
 
-## About Me
+**14+ years of expertise** 🏗️. From mobile to back-end, I bridge the gap between complex architectural design and high-quality implementation, ensuring scalability and performance are baked in from day one, **fueling** business growth 📈.
 
-Highly skilled professional with 14+ years of overall experience and a proven track record in end-to-end (E2E) design and development across multiple industries. I've successfully driven application development and achieved substantial business growth. With a background spanning front-end, back-end, and mobile development as a Software Engineer, along with quality assurance roles as a Software Development Engineer in Test (SDET) where I worked with software testing, test automation, process automation (RPA), and performance testing, I've seamlessly navigated various aspects of software development. Additionally, I actively participate in architectural solutions and definitions, leveraging my experience to contribute to robust and scalable system designs. All my experiences have equipped me to deliver comprehensive and quality-focused solutions, making a significant impact where I have worked so far.
+When I’m not at my desk, I’m spending time with my family 🏠, exploring new places ✈️, or diving into new studies to stay ahead of the curve 📚.
 
-Beyond tech, I enjoy quality time with my family, exploring new places, and continuously advancing my tech expertise through ongoing study.
+I thrive in environments where I can **drive** innovation 💡 and **create** software that leaves a lasting, positive impact on the world 🌍.
 
-I get excited about opportunities where I’m able to drive innovation in software engineering and delivery products that make a meaningful impact on users’ lives.
+## 🛠️ Skills
 
-## Skills
+### 📱 Mobile Development (iOS)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) 
+![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=flat-square&logo=apple&logoColor=white)
 
-Proficient in a range of programming languages and technologies, including Swift, Objective-C (on iOS tech stack), as well as Java, C# and .NET frameworks, I bring expertise in applying object-oriented principles and best practices, including SOLID, design patterns, and tailored architecture for optimal results. Committed to Clean Code and collaboration, I ensure high-quality, maintainable solutions.
+### ⚙️ Back-end Engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-## Projects
+### 🏗️ Architecture & Principles
+**SOLID** • **OOP** • **Clean Code** • **Design Patterns**
 
-Here are a few projects I've worked on:
+### 🤝 Collaboration & Quality
+Maintenance-first mindset, peer reviews, and high-impact user experiences.
 
-1. **[Itaú](https://www.itau.com.br)** - Led iOS development of critical features, processing over R$ 55B (~US$10B) in daily Pix transfers. 
-2. **[AmiGo Travel](https://www.amigo.app)** - Led E2E design and development, achieving a 50% QoQ increase in organic sign-ups after release (reached 100K users) with a high rating (4.9 stars).
-3. **[Itaú](https://www.itau.com.br)** - Collaborated with Apple on 'iPhone pra Sempre', resulting in over 30K monthly sales post-release.
-4. **[Itaú](https://www.itau.com.br)** - Developed native credit card contracting flow and improved user experience, achieving 20K credit card contracts per month
+### 🎯 Focus
+Scalable & robust systems, tailored architectural solutions, and performance optimization.
 
-See more on my LinkedIn
+## 🚀 Key Projects & Impact
 
-## GitHub Stats
+1. **[Itaú](https://www.itau.com.br)**
+   * **Pix Ecosystem:** Led iOS development for critical features, processing over **R$ 55B (~US$ 10B)** in daily transfers.
+   * **iPhone pra Sempre:** Collaborated directly with **Apple** to launch the "iPhone pra Sempre" program, reaching **30K+ monthly sales**.
+   * **Credit Solutions:** Developed native credit card contracting flows, achieving **20K+ new contracts** per month through UX optimization.
+
+2. **[AmiGo Travel](https://www.amigo.app)**
+   * **E2E Leadership:** Led end-to-end design and development, scaling to **100K users** with a **4.9-star rating**.
+   * **Growth:** Achieved a **50% QoQ increase** in organic sign-ups post-release.
+
+> 💡 *Check out my [LinkedIn](https://www.linkedin.com/in/henriqueaeguchi/) for a deeper dive into my professional journey.*
+
+## 📊 GitHub Stats
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-eguchi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-eguchi&layout=compact&theme=radical)
 
-## Connect with Me
+## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/henriqueaeguchi/)
-<!-- [Personal Website/Blog](http://yourwebsite.com)-->
-
+* [**LinkedIn**](https://www.linkedin.com/in/henriqueaeguchi/)
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.

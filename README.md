@@ -1,8 +1,8 @@
 # Hi there, I'm Henrique 👋
 
-I'm a **Software Engineer** based in Brazil 🇧🇷. I build innovative and tailor-made solutions 🎯.
+I'm a **Software Engineer** based in Brazil. I build innovative and tailor-made solutions 🎯.
 
-**14+ years of expertise** 🏗️. From mobile to back-end, I bridge the gap between complex architectural design and high-quality implementation, ensuring scalability and performance are baked in from day one, **fueling** business growth 📈.
+**14+ years of expertise**. From mobile to back-end, I bridge the gap between complex architectural design and high-quality implementation, ensuring scalability and performance are baked in from day one, **fueling** business growth 📈.
 
 When I’m not at my desk, I’m spending time with my family 🏠, exploring new places ✈️, or diving into new studies to stay ahead of the curve 📚.
 
